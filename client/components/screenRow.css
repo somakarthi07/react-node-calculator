@@ -1,0 +1,13 @@
+
+.screen-row input{
+    width:  13.5rem;
+    height: 1rem;
+    border: 2px solid pink;
+    outline: none;
+    font-size: x-large;
+}
+
+.screen-row input:focus{
+    border: 2px solid orangered;
+    outline: none;
+}

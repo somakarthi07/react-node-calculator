@@ -1,0 +1,22 @@
+nav{
+  height: 10.5vh;
+  margin-bottom: 2rem;
+  text-align: center;
+  background-color: darkmagenta;
+}
+
+nav h1 a{
+  text-decoration: none;
+  color: white;
+}
+
+section {
+  text-align: center;
+}
+
+footer{
+  height: 9vh;
+  margin-top: 2rem;
+  text-align: center;
+  background-color: darkgreen;
+}
